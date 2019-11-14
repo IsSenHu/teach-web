@@ -15,7 +15,7 @@
     "video.js": "latest",
     "vue": "^2.6.10",
     "vue-video-player": "^5.0.2",
-    "jquery": "^2.2.1"
+    "jquery": "^3.4.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
